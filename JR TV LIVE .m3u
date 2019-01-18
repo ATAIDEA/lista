@@ -1,16 +1,1 @@
-#EXTM3U
-#PLAYLISTV: pltv-logo="http://comportamento.net/wp-content/uploads/logo-mini-500x500.jpg" pltv-name="LISTA JR TV LIVE" pltv-description="CANAIS FECHADOS" pltv-cover="https://tvseriesfinale.com/wp-content/uploads/2014/03/hallmark01.jpg" pltv-author="JUNIOR TV" pltv-site="XXX SITE CASO HOUVER XXX" pltv-email="XXX E-MAIL XXX"
-
-
-################## CANAIS DE FILMES ########################
-
-#EXTINF:-1 tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2017/09/canal-space-2.jpg" group-title="CANAIS" pltv-subgroup="FILMES",SPACE, 
-https://secure-playlist.livestream.com/streams/5381476_2395418_lsip2ex9d1e0mjlpbqh_1/media/5381476_2395418_lsip2ex9d1e0mjlpbqh_1@2320000p.m3u8?dw=14400&token=1548008971_335fe01172e9a98bb696f69a35ea9b812a5a3ede&ts=1547834400
-
-
-
-
-
-
-
 
