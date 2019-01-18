@@ -2,10 +2,11 @@
 #PLAYLISTV: pltv-logo="http://comportamento.net/wp-content/uploads/logo-mini-500x500.jpg" pltv-name="LISTA JR TV LIVE" pltv-description="CANAIS FECHADOS" pltv-cover="https://tvseriesfinale.com/wp-content/uploads/2014/03/hallmark01.jpg" pltv-author="JUNIOR TV" pltv-site="XXX SITE CASO HOUVER XXX" pltv-email="XXX E-MAIL XXX"
 
 
-################## CANAIS DE VARIEDADE ########################
+################## CANAIS DE FILMES ########################
 
-#EXTINF:-1 tvg-logo="https://clarotvlojaonline.com.br/img/channels/20160315155547-canal-fish-tv.png" group-title="CANAIS" pltv-subgroup="VARIEDADE",FISHTV, 
-https://youtu.be/_kyC_wmv4EI
+#EXTINF:-1 tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2017/09/canal-space-2.jpg" group-title="CANAIS" pltv-subgroup="FILMES",SPACE, 
+https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/67.m3u8
+
 
 
 
